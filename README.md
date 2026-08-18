@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <p><strong>Estado civil:</strong> Solteira</p>
+  <p><strong>Rua:</strong> Rua 5, Nº 123</p>
   <title>Currículo - Maria Nicole Da Silva Souza</title>
 </head>
 <body>
