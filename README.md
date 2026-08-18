@@ -6,9 +6,9 @@
   <title>Currículo - Maria Nicole Da Silva Souza</title>
 </head>
 <body>
-  <h1>Seu Nome Completo</h1>
+  <h1>Maria Nicole Da Silva Souza</h1>
   <p><strong>Email:</strong> nicole.email@exemplo.com</p>
-  <p><strong>Telefone:</strong> (85) 99999-9999</p>
+  <p><strong>Telefone:</strong> (85) 99951279</p>
   <p><strong>Cidade:</strong> Fortaleza - CE</p>
 
   <hr>
@@ -23,19 +23,19 @@
 
   <h2>Cursos e treinamentos</h2>
   <ul>
-    <li>Direito Penal e Processual Penal — Instituição X — Carga horária</li>
-    <li>Criminologia — Instituição Y — Carga horária</li>
-    <li>Tribunal do Júri — Instituição Z — Carga horária</li>
-    <li>Teoria do Crime e Teoria da Pena — Instituição W — Carga horária</li>
-    <li>Prática Forense Criminal — Instituição A — Carga horária</li>
+    <li>Direito Penal e Processual Penal — ufce — 300Hs</li>
+    <li>Criminologia — ufce — 100Hs</li>
+    <li>Tribunal do Júri — ufce — 200Hs</li>
+    <li>Teoria do Crime e Teoria da Pena — ufce — 200Hs</li>
+    <li>Prática Forense Criminal — ufce — 300Hs</li>
   </ul>
 
   <h2>Experiências</h2>
   <ul>
-    <li>Estágio jurídico — Escritório ou órgão público — Período</li>
-    <li>Atendimento e organização de documentos jurídicos — Período</li>
-    <li>Pesquisa de jurisprudência e elaboração de peças simples — Período</li>
-    <li>Apoio em rotinas ligadas ao Direito Penal e Processual Penal — Período</li>
+    <li>Estágio jurídico — Escritório público — 2031</li>
+    <li>Atendimento e organização de documentos jurídicos — 2034</li>
+    <li>Pesquisa de jurisprudência e elaboração de peças simples — 2033</li>
+    <li>Apoio em rotinas ligadas ao Direito Penal e Processual Penal — 2034</li>
   </ul>
 
   <h2>Outros</h2>
